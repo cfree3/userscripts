@@ -22,8 +22,8 @@ You may use and hack on these scripts yourself; however, if you redistribute any
 must:
 
   *  Include it in an _open-source_ context.
-  *  Give credit to me (Curtis Free) as the creator of the script(s) and -- more important -- retain
-     all existing references/credits.
+  *  Give credit to me (Curtis Free) as the creator of the script(s) and &ndash; more important
+     &ndash; retain all existing references/credits.
   *  [Let me know!][email]
 
 If you find one of my scripts useful, I'd [like to know][email].
@@ -31,7 +31,7 @@ If you find one of my scripts useful, I'd [like to know][email].
 DISCLAIMER
 ----------
 I give no guarantees that any of these scripts is secure or will work at all in your environment.
-Read the source if you care, and -- as always -- _use at your own risk_.
+Read the source if you care, and &ndash; as always &ndash; _use at your own risk_.
 
 Bugs
 ----
