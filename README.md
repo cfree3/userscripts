@@ -18,27 +18,12 @@ I've tried to give general credits in the individual scripts.
 
 License?
 --------
-You may use and hack on these scripts yourself; however, if you redistribute any of this work, you
-must:
-
-  *  Include it in an _open-source_ context.
-  *  Give credit to me (Curtis Free) as the creator of the script(s) and &ndash; more important
-     &ndash; retain all existing references/credits.
-  *  [Let me know!][email]
-
-If you find one of my scripts useful, I'd [like to know][email].
+These userscripts are released under the MIT license (see `LICENSE.md`).
 
 DISCLAIMER
 ----------
 I give no guarantees that any of these scripts is secure or will work at all in your environment.
 Read the source if you care, and &ndash; as always &ndash; _use at your own risk_.
-
-Bugs
-----
-This is a "works-for-me-maybe" project: I do not guarantee that any bugfixing will occur.
-FYI, I created/tested these scripts using Firefox 4 and Greasemonkey on [Arch Linux][arch].
-
-[email]: &#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#102;&#64;&#99;&#117;&#114;&#116;&#105;&#115;&#102;&#114;&#101;&#101;&#46;&#99;&#111;&#109;
 
 [userscripts]:  https://userscripts.org
 [firefox]:      http://www.firefox.com
