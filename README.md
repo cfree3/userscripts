@@ -1,5 +1,8 @@
 Userscripts
 ===========
+
+> *NOTE:* This repository is no longer maintained!
+
 This repo is a collection of special JavaScript scripts (["userscripts"][userscripts]) that can be
 run from within your browser. In [Firefox][firefox], this can be accomplished with the
 [Greasemonkey][greasemonkey] extension. [Chromium][chromium] and [Google Chrome][chrome] support
